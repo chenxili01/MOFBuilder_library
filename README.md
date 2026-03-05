@@ -32,7 +32,6 @@ Currently supported features include:
 
 Nodes can be generated from experimental **CIF structures** by marking coordination atoms and cutting clusters according to the MOFBuilder node definition rules.
 
----
 
 ---
 
